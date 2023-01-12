@@ -1,7 +1,7 @@
 # Notes-WebApp
 A WebApp written in React.js which can be used to make notes and delete them seamlessly and easily.
 
-This is a Notes app which helps you keep track of your notes. Designed with simplicity and a smoouth UI in mind, it provides you the ability to identify your notes through titles withu=out too much cluttering.
+This is a Notes app which helps you keep track of your notes. Designed with simplicity and a smooth UI in mind, it provides you the ability to identify your notes through titles easily.
 
 It has a dynamic UI which interacts with the user. To keep thing simple and clutter free it starts with a simple text box which you can click to expand to start writing your note.
 Initial screen:
