@@ -9,6 +9,6 @@ Initial screen:
 After clicking the text box:
 ![image](https://user-images.githubusercontent.com/121666743/212141223-5f10b2aa-f815-4e0a-811c-b3e6310092e9.png)
 
-You can create as many notes you want and can also delete any as their need ends.
+You can create as many notes as you want and can also delete any as soon as its need ends.
 ![image](https://user-images.githubusercontent.com/121666743/212141736-7a227611-139a-43c7-856c-1d5b55dcd733.png)
 ![image](https://user-images.githubusercontent.com/121666743/212141803-b3616c10-0486-4603-bacb-51a4dc93b350.png)
